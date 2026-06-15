@@ -1,0 +1,2 @@
+# AI-driven-predictive-and-intelligent-health-monitoring-for-hardware-infrastructure
+Cisco NextGen System League (CNSL) 2026 Finalist (Top 6) – Designed an AI-driven predictive hardware health monitoring framework leveraging telemetry analytics, ensemble machine learning, federated learning, and risk-based failure prediction for enterprise infrastructure. Presented the solution during Cisco's final showcase round.
